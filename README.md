@@ -8,7 +8,7 @@ Hope you are having a nice day! Here's a little about me:
 
 - 🔭 Exploratory Data Analysis works-out my brain the most. I occasionally elaborate on the process on my blog called [WorkOutData](https://contactmansi.github.io/workoutdata/) created using fastpages.ai 
 
-- Coding has been a part of me since 2010, ever since I've always felt associated and feel problem solving is what stimulates my brain the most and drives me forward.
+- Coding has been a part of me since 2010, ever since I've always felt associated. Problem solving thorugh code stimulates my brain the most and drives me forward.
 
 - 💬 Ask me about **Machine Learning, Data Science, Big Data, MLOps, REST APIs**
 
