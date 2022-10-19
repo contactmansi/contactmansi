@@ -2,15 +2,17 @@
 <h2 align="center">Machine Learning | Data Engineering | Software Development Practitioner</h2>
 <br>
 
-
+Hope you are having a nice day! Here's a little about me:
 - 📝 I’m currently working as a Data Engineer and pursuing MSc in Business Analytics at National University of Singapore (NUS)
 
 
 - 🔭 Exploratory Data Analysis works-out my brain the most. I occasionally elaborate on the process on my blog called [WorkOutData](https://contactmansi.github.io/workoutdata/) created using fastpages.ai 
 
-- 💬 Ask me about **Machine Learning, Data Science, Big Data, MLOps**
+- Coding has been a part of me since 2010, ever since I've always felt associated and feel problem solving is what stimulates my brain the most and drives me forward.
 
-- 📫 Reach me at **mansi.nuscareers@gmail.com** to discuss ideas and collaborate. We can also connect on <a href="https://linkedin.com/in/mansi-agarwal-sg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-agarwal-sg" height="18" width="18" /></a>
+- 💬 Ask me about **Machine Learning, Data Science, Big Data, MLOps, REST APIs**
+
+- 📫 Reach me at **mansi.nuscareers@gmail.com** to discuss ideas and collaborate. Would be glat to connect on LinkedIn <a href="https://linkedin.com/in/mansi-agarwal-sg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-agarwal-sg" height="17" width="18" /></a>
 
 <hr>
 
@@ -32,5 +34,13 @@
 
 <hr>
 
+A Customary statistics minireport for maintaining updated GitHub profile aesthetics (aka developer peer pressure :sweat_smile: 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=contactmansi&" alt="contactmansi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=contactmansi&" alt="contactmansi" width="600" height="200"/></p>
+
+
+Hope you enjoy exploring my repositories. For issues, questions, contributions please feel free to reach me at mansi.nuscareers@gmail.com or connect on [LinkedIn](https://www.linkedin.com/mansi-agarwal-sg). 
+
+Grateful for your visit! 
+
+<hr>
