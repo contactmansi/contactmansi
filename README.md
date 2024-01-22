@@ -3,12 +3,13 @@
 <br>
 
 Hope you are having a nice day! Here's a little about me:
-- 📝 I’m currently working as a Senior Data Engineer and finished a Masters in Business Analytics (MSBA) at National University of Singapore (NUS)
+- 📝 Relieved to share that I successfully completed my Masters in Business Analytics (MSBA) at National University of Singapore (NUS). Trust me, it was a struggle with a part-time job as a Senior Data Engineer, that is currently my profession.
 
+- 👩🏻‍🦱 Recently started to volunteer with [Women Who Code (WWC)](https://womenwhocode.com/) Singapore, which is a group of wonderful talented ladies and diverse allies driven to spread inclusivity of historicallly isolated groups in tech. I've had the opportunity to mentor in DS/ML/AI and host a couple of events. Hope this journey continues!
 
 - 🔭 Exploratory Data Analysis works-out my brain the most. I occasionally elaborate the process on my blog called [WorkOutData](https://contactmansi.github.io/workoutdata/) )(created using fastpages.ai, now migrated to [Quarto](https://quarto.org/)) 
 
-- Coding has been a part of me since 2010, ever since I've always felt associated. Problem solving through automation and code stimulates my brain the most, hence drives me forward.
+- 👩🏻‍💻 Coding has been a part of me since 2010, ever since I've always felt associated. Problem solving through automation and code stimulates my brain the most, hence drives me forward.
 
 - 💬 Ask me about **Machine Learning, Data Science, Big Data, MLOps, REST APIs**
 
