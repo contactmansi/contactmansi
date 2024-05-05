@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey! It's Mansi here</h1>
-<h2 align="center">Machine Learning & Data Engineer </h2>
+<h2 align="center"> Data Engineering | Machine Learning | Software Development </h2>
 <br>
 
 Hope you are having a nice day! Here's a little about me:
