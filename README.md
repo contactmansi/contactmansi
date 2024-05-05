@@ -5,7 +5,7 @@
 Hope you are having a nice day! Here's a little about me:
 - 📝 Successfully completed Masters in Business Analytics (MSBA) from National University of Singapore (NUS). Trust me, it was a struggle with a part-time job as a Senior Data Engineer, relieved to have this accomplishment
 
-- 👩🏻‍🦱 Volunteering with [Women Devs SG (formerly Women Who Code)]([https://womendevssg.github.io/]) Singapore, which is a group of wonderful talented ladies and diverse allies driven to help women excel in tech careers, spread inclusivity of historicallly isolated groups and grow together. With the opportunity to mentor in DS/ML/AI and host a couple of events, I'm excited to continue my journey!
+- 👩🏻‍🦱 Volunteering with [Women Devs SG (formerly Women Who Code)](https://womendevssg.github.io/) Singapore, which is a group of wonderful talented ladies and diverse allies driven to help women excel in tech careers, spread inclusivity of historicallly isolated groups and grow together. With the opportunity to mentor in DS/ML/AI and host a couple of events, I'm excited to continue my journey!
 
 - 🔭 Exploratory Data Analysis works-out my brain the most. I occasionally elaborate the process on my blog called [WorkOutData](https://contactmansi.github.io/workoutdata/)(created using fastpages.ai, now migrated to [Quarto](https://quarto.org/)) 
 
